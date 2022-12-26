@@ -13,4 +13,6 @@ Fddh2012's op-package
 
 然后执行编译流程。
 
-鸣谢：https://github.com/jerrykuku   https://github.com/vernesong/OpenClash
+鸣谢：
+jerrykuku:https://github.com/jerrykuku   
+OpenClash:https://github.com/vernesong/OpenClash
