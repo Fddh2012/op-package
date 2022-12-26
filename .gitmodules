@@ -1,0 +1,8 @@
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
+	branch = master
+[submodule "luci-theme-argon-18.06"]
+	path = luci-theme-argon-18.06
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+	branch = 18.06
