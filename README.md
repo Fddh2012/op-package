@@ -1,7 +1,7 @@
 # Argon-package
 Fddh2012's Argon-package
 
-建议使用Lean源进行编译。这个Branch的argon不适合官方版本。
+只能使用Lean源进行编译。
 包含了 如下应用
 - Argon 主题
 - Argon 主题配置应用
@@ -10,10 +10,4 @@ Fddh2012's Argon-package
 
 添加 src-git Argon https://github.com/Fddh2012/Argon-package 到 OpenWRT 源码根目录feeds.conf.default文件
 
-然后执行
-
-```bash
-./scripts/feeds clean
-./scripts/feeds update -a
-./scripts/feeds install -a
-```
+然后执行编译流程。
