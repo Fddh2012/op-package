@@ -11,3 +11,5 @@ Fddh2012's Argon-package
 添加 src-git Argon https://github.com/Fddh2012/Argon-package 到 OpenWRT 源码根目录feeds.conf.default文件
 
 然后执行编译流程。
+
+鸣谢：https://github.com/jerrykuku
