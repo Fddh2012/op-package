@@ -6,3 +6,7 @@
 	path = luci-theme-argon-18.06
 	url = https://github.com/jerrykuku/luci-theme-argon.git
 	branch = 18.06
+[submodule "OpenClash"]
+	path = OpenClash
+	url = https://github.com/vernesong/OpenClash.git
+	branch = master
